@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Windows;
 using SentinelClient.SentinelServerReference;
-
+    /// <summary>
+    /// Created by Mark Brundieck; July 2015
+    /// </summary>
 namespace SentinelClient
 {
     /// <summary>

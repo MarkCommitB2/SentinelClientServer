@@ -5,6 +5,9 @@ using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.Text;
 
+    /// <summary>
+    /// Created by Mark Brundieck; July 2015
+    /// </summary>
 namespace SentinelServiceLibrary
 {
     [ServiceContract]

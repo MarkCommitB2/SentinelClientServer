@@ -3,13 +3,16 @@ using System.Configuration;
 using System.Diagnostics;
 using System.IO;
 
+    /// <summary>
+    /// Created by Mark Brundieck; July 2015
+    /// </summary>
 namespace SentinelMainStartup
 {
     class Program
     {
         static void Main(string[] args)
         {
-           //support for commandline startup, process args
+           //support for command line startup, process args
             if (args.Length > 0)
             {
                 ProcessInput(args);

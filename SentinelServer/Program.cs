@@ -4,6 +4,9 @@ using System.ServiceModel;
 using System.ServiceModel.Description;
 using SentinelServiceLibrary;
 
+    /// <summary>
+    /// Created by Mark Brundieck; July 2015
+    /// </summary>
 namespace SentinelServer
 {
     class Program
